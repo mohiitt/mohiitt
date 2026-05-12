@@ -1,149 +1,114 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohit%20Barade&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=36&desc=MS%20Computer%20Engineering%20%C2%B7%20San%20Jos%C3%A9%20State%20University&descAlignY=58&descSize=16" width="100%"/>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=C84B31&height=140&section=header" width="100%"/>
-
-# Mohit Barade
-### Building production-grade ML systems · LLM pipelines · Multi-agent architectures
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mb473-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mb473)
-[![Email](https://img.shields.io/badge/Email-mohitbarade1@gmail.com-C84B31?style=flat-square&logo=gmail&logoColor=white)](mailto:mohitbarade1@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming Soon-0F0F0E?style=flat-square&logo=vercel&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mb473)
+[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohitbarade1@gmail.com)
+[![Devpost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/mohitbarade1)
 
 </div>
 
 ---
 
-## About
+```
+Building full-stack systems · ML pipelines · Agentic AI workflows
+From research to production.
+```
 
-I design and ship **end-to-end ML and backend systems**, with a focus on:
-- LLM-powered applications (RAG, agents, evaluation loops)
-- Scalable backend infrastructure
-- Applied ML in real-world domains
-
-Currently pursuing an **MS in Computer Engineering @ San José State University**, and actively building systems that move from research → production.
-
-**Previously:** Worked with **Bosch Global Software Technologies** on tooling for **legacy code migration in safety-critical systems**.
-
----
-
-## Tech Stack
-
-<div align="center">
-
-**Languages**  
-`Python` · `Go` · `TypeScript` · `C++`
-
-**Backend & Systems**  
-`FastAPI` · `Node.js` · `Next.js` · `Docker` · `Kubernetes` · `AWS`
-
-**ML & AI**  
-`PyTorch` · `XGBoost` · `LightGCN` · `LLMs` · `RAG` · `Agent Systems`
-
-**Data & Infra**  
-`PostgreSQL` · `Redis` · `Qdrant`
-
-</div>
-
----
-
-## Selected Projects
-
-### TinyScout — Autonomous Research Agent
-> Planner → Retriever → Synthesizer pipeline with hallucination control
-
-- Built an **agentic research system** with structured reasoning flow  
-- Implemented **evidence gating** to reduce hallucinated outputs  
-- Designed modular pipeline for extensibility  
-
-**Stack:** Python · Claude API · Streamlit  
-🔗 https://devpost.com/software/tinyscout
-
----
-
-### Vigil — Real-Time API Monitoring System
-> Push-based agents with observability + alerting
-
-- Developed **distributed monitoring agents** for real-time API health tracking  
-- Integrated **OpenTelemetry + Redis** for metrics + event streaming  
-- Designed configurable alerting pipeline  
-
-**Stack:** Node.js · Redis · Kubernetes · OTel  
-🔗 https://devpost.com/software/productionagents
-
----
-
-### ClinOps — Multi-Agent Clinical Trial System
-> LLM orchestration over unstructured medical protocols
-
-- Built **multi-agent workflows** for document understanding + task execution  
-- Enabled structured reasoning over **complex clinical trial data**  
-- Designed scalable orchestration layer  
-
-**Stack:** TypeScript · Next.js · Gemini API  
-
----
-
-### GraphLens — GNN Recommendation Engine
-> Bipartite graph learning with measurable gains
-
-- Implemented **LightGCN-based recommender system**  
-- Achieved **+11.8% Recall@10 improvement** over baseline  
-- Optimized training pipeline for graph data  
-
-**Stack:** PyTorch Geometric · Python  
-
----
-
-### NeuroScan AI — Alzheimer's Detection
-> ML model on MRI biomarkers
-
-- Built predictive model reducing **subjective diagnostic reliance (37% → 8%)**  
-- Engineered features from neuroimaging datasets  
-- Focused on **interpretability + clinical relevance**  
-
-**Stack:** XGBoost · Scikit-learn · Nilearn  
-
----
-
-### RAGent — Retrieval-Augmented QA System
-> Semantic search with evaluation loop
-
-- Developed **RAG pipeline with Qdrant vector search**  
-- Implemented **retrieval evaluation + feedback loop**  
-- Designed API-first architecture  
-
-**Stack:** FastAPI · Qdrant · Docker  
-
----
-
-## Current Focus
-
-- MS Computer Engineering @ SJSU (GPA: 3.53, Grad: June 2027)
-- Building **LLM systems + multi-agent architectures**
-- Exploring **evaluation, reliability, and productionization of AI systems**
-
----
-
-## Opportunities
-
-Actively seeking **Summer 2026 internships** in:
-- Software Engineering (Backend / Systems)
-- Machine Learning Engineering
-- AI Infrastructure / Applied LLM Systems
-
----
-
-## Extras
-
-- Volunteering with **Kontagious** — supporting incoming international students at SJSU
+Co-researched with **Bosch Global Software Technologies** on automated migration tooling for safety-critical codebases. Currently focused on multi-agent architectures, RAG systems, and production ML.
 
 ---
 
 <div align="center">
 
-📍 San Jose, CA  
-📩 mohitbarade1@gmail.com  
+### Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=C84B31&height=100&section=footer" width="100%"/>
+---
+
+### Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🔍 TinyScout**
+Autonomous web research agent. A Planner → Retriever → Synthesizer pipeline with evidence gating — returns structured signals instead of hallucinating when sources are weak.
+`Claude API` `Python` `Streamlit` `Multi-Agent`
+[→ Devpost](https://devpost.com/software/tinyscout)
+
+</td>
+<td width="50%" valign="top">
+
+**🛡️ Vigil**
+Real-time API health monitoring with push-based agents, configurable alerting policies, incident deduplication, and a full observability stack.
+`Node.js` `Redis` `Kubernetes` `OpenTelemetry`
+[→ Devpost](https://devpost.com/software/productionagents)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🏥 ClinOps**
+Multi-agent clinical trial management. Specialized LLM agents decompose, analyze, and transform unstructured protocol documents into structured deliverables.
+`TypeScript` `Next.js` `Gemini API` `OpenTelemetry`
+
+</td>
+<td width="50%" valign="top">
+
+**📈 GraphLens**
+GNN recommendation engine using LightGCN on bipartite user–item graphs with a hybrid MLP fusion layer for cold-start coverage.
+`PyTorch Geometric` `LightGCN` · **+11.8% Recall@10**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🧠 NeuroScan AI**
+Alzheimer's early detection from 104 MRI structural biomarkers. XGBoost feature selection cut subjective score reliance from 37% → 8%.
+`XGBoost` `Scikit-Learn` `Nilearn` `OASIS-1`
+
+</td>
+<td width="50%" valign="top">
+
+**🗂️ RAGent**
+Semantic search & QA over large document collections with a retrieval evaluation feedback loop to continuously validate LLM inference accuracy.
+`FastAPI` `Qdrant` `Docker` `Streamlit`
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+**GPA 3.53 &nbsp;·&nbsp; Graduating June 2027 &nbsp;·&nbsp; Open to SWE & ML Internships**
+
+`San Jose, CA` &nbsp;·&nbsp; [mohitbarade1@gmail.com](mailto:mohitbarade1@gmail.com) &nbsp;·&nbsp; [linkedin.com/in/mb473](https://linkedin.com/in/mb473)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
