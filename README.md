@@ -1,54 +1,149 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=C84B31&height=120&section=header&text=&fontSize=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=C84B31&height=140&section=header" width="100%"/>
 
 # Mohit Barade
-### MS Computer Engineering · San José State University
+### Building production-grade ML systems · LLM pipelines · Multi-agent architectures
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mb473-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mb473)
 [![Email](https://img.shields.io/badge/Email-mohitbarade1@gmail.com-C84B31?style=flat-square&logo=gmail&logoColor=white)](mailto:mohitbarade1@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-visit-0F0F0E?style=flat-square&logo=vercel&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming Soon-0F0F0E?style=flat-square&logo=vercel&logoColor=white)](#)
 
 </div>
 
 ---
 
-I build full-stack systems, ML pipelines, and agentic AI workflows — from research to production. Currently pursuing my MS at SJSU while working on multi-agent architectures and RAG systems.
+## About
 
-**Previously:** Co-research with Bosch Global Software Technologies on legacy codebase migration tooling for safety-critical systems.
+I design and ship **end-to-end ML and backend systems**, with a focus on:
+- LLM-powered applications (RAG, agents, evaluation loops)
+- Scalable backend infrastructure
+- Applied ML in real-world domains
 
----
+Currently pursuing an **MS in Computer Engineering @ San José State University**, and actively building systems that move from research → production.
 
-### What I'm working with
-
-`Python` `Go` `TypeScript` `C++` &nbsp;·&nbsp; `FastAPI` `Next.js` `Node.js` &nbsp;·&nbsp; `PyTorch` `LightGCN` `XGBoost`  
-`LLM Integration` `RAG` `Agentic Workflows` &nbsp;·&nbsp; `Docker` `Kubernetes` `AWS` &nbsp;·&nbsp; `Qdrant` `PostgreSQL` `Redis`
-
----
-
-### Selected work
-
-| Project | What it does | Stack |
-|---|---|---|
-| **[TinyScout](https://devpost.com/software/tinyscout)** | Autonomous web research agent — Planner → Retriever → Synthesizer pipeline with evidence gating that prevents hallucination | Claude API · Python · Streamlit |
-| **[Vigil](https://devpost.com/software/productionagents)** | Real-time API health monitoring with push-based agents, configurable alerting, and full observability | Node.js · Redis · K8s · OTel |
-| **ClinOps** | Multi-agent clinical trial management — LLM orchestration over unstructured protocol documents | TypeScript · Next.js · Gemini API |
-| **GraphLens** | GNN recommendation engine with LightGCN on bipartite graphs · +11.8% Recall@10 | PyTorch Geometric · Python |
-| **NeuroScan AI** | Early Alzheimer's detection from MRI biomarkers — reduced subjective score reliance from 37% → 8% | XGBoost · Scikit-Learn · Nilearn |
-| **RAGent** | Semantic search & QA over large document collections with retrieval evaluation feedback loop | FastAPI · Qdrant · Docker |
+**Previously:** Worked with **Bosch Global Software Technologies** on tooling for **legacy code migration in safety-critical systems**.
 
 ---
 
-### Currently
+## Tech Stack
 
-- 🎓 &nbsp;MS Computer Engineering @ SJSU (GPA 3.53 · graduating June 2027)
-- 🔍 &nbsp;Actively looking for **SWE / ML internships** for Summer 2026
-- 🤝 &nbsp;Volunteering with Kontagious — free airport pickup & support for new international students at SJSU
+<div align="center">
+
+**Languages**  
+`Python` · `Go` · `TypeScript` · `C++`
+
+**Backend & Systems**  
+`FastAPI` · `Node.js` · `Next.js` · `Docker` · `Kubernetes` · `AWS`
+
+**ML & AI**  
+`PyTorch` · `XGBoost` · `LightGCN` · `LLMs` · `RAG` · `Agent Systems`
+
+**Data & Infra**  
+`PostgreSQL` · `Redis` · `Qdrant`
+
+</div>
+
+---
+
+## Selected Projects
+
+### TinyScout — Autonomous Research Agent
+> Planner → Retriever → Synthesizer pipeline with hallucination control
+
+- Built an **agentic research system** with structured reasoning flow  
+- Implemented **evidence gating** to reduce hallucinated outputs  
+- Designed modular pipeline for extensibility  
+
+**Stack:** Python · Claude API · Streamlit  
+🔗 https://devpost.com/software/tinyscout
+
+---
+
+### Vigil — Real-Time API Monitoring System
+> Push-based agents with observability + alerting
+
+- Developed **distributed monitoring agents** for real-time API health tracking  
+- Integrated **OpenTelemetry + Redis** for metrics + event streaming  
+- Designed configurable alerting pipeline  
+
+**Stack:** Node.js · Redis · Kubernetes · OTel  
+🔗 https://devpost.com/software/productionagents
+
+---
+
+### ClinOps — Multi-Agent Clinical Trial System
+> LLM orchestration over unstructured medical protocols
+
+- Built **multi-agent workflows** for document understanding + task execution  
+- Enabled structured reasoning over **complex clinical trial data**  
+- Designed scalable orchestration layer  
+
+**Stack:** TypeScript · Next.js · Gemini API  
+
+---
+
+### GraphLens — GNN Recommendation Engine
+> Bipartite graph learning with measurable gains
+
+- Implemented **LightGCN-based recommender system**  
+- Achieved **+11.8% Recall@10 improvement** over baseline  
+- Optimized training pipeline for graph data  
+
+**Stack:** PyTorch Geometric · Python  
+
+---
+
+### NeuroScan AI — Alzheimer's Detection
+> ML model on MRI biomarkers
+
+- Built predictive model reducing **subjective diagnostic reliance (37% → 8%)**  
+- Engineered features from neuroimaging datasets  
+- Focused on **interpretability + clinical relevance**  
+
+**Stack:** XGBoost · Scikit-learn · Nilearn  
+
+---
+
+### RAGent — Retrieval-Augmented QA System
+> Semantic search with evaluation loop
+
+- Developed **RAG pipeline with Qdrant vector search**  
+- Implemented **retrieval evaluation + feedback loop**  
+- Designed API-first architecture  
+
+**Stack:** FastAPI · Qdrant · Docker  
+
+---
+
+## Current Focus
+
+- MS Computer Engineering @ SJSU (GPA: 3.53, Grad: June 2027)
+- Building **LLM systems + multi-agent architectures**
+- Exploring **evaluation, reliability, and productionization of AI systems**
+
+---
+
+## Opportunities
+
+Actively seeking **Summer 2026 internships** in:
+- Software Engineering (Backend / Systems)
+- Machine Learning Engineering
+- AI Infrastructure / Applied LLM Systems
+
+---
+
+## Extras
+
+- Volunteering with **Kontagious** — supporting incoming international students at SJSU
 
 ---
 
 <div align="center">
-<sub>Open to opportunities &nbsp;·&nbsp; <a href="mailto:mohitbarade1@gmail.com">mohitbarade1@gmail.com</a> &nbsp;·&nbsp; San Jose, CA</sub>
+
+📍 San Jose, CA  
+📩 mohitbarade1@gmail.com  
+
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=C84B31&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=C84B31&height=100&section=footer" width="100%"/>
