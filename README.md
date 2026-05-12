@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohit%20Barade&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=36&desc=MS%20Computer%20Engineering%20%C2%B7%20San%20Jos%C3%A9%20State%20University&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohit%20Manoj%20Barade&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=36&desc=MS%20Computer%20Engineering%20%C2%B7%20San%20Jos%C3%A9%20State%20University&descAlignY=58&descSize=16" width="100%"/>
 
 <div align="center">
 
@@ -105,7 +105,7 @@ Semantic search & QA over large document collections with a retrieval evaluation
 
 <div align="center">
 
-**GPA 3.53 &nbsp;·&nbsp; Graduating June 2027 &nbsp;·&nbsp; Open to SWE & ML Internships**
+**GPA 3.53 &nbsp;·&nbsp; Graduating May 2027 &nbsp;·&nbsp; Open to SWE & ML Internships**
 
 `San Jose, CA` &nbsp;·&nbsp; [mohitbarade1@gmail.com](mailto:mohitbarade1@gmail.com) &nbsp;·&nbsp; [linkedin.com/in/mb473](https://linkedin.com/in/mb473)
 
