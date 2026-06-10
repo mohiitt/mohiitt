@@ -42,6 +42,8 @@ Co-researched with **Bosch Global Software Technologies** on automated migration
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
+![LangGraph](https://img.shields.io/badge/LangGraph-1B1B1B?style=flat-square&logo=python&logoColor=white)
+![W&B](https://img.shields.io/badge/W%26B%20Weave-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black)
 </div>
 
 ---
@@ -70,11 +72,21 @@ Real-time API health monitoring with push-based agents, configurable alerting po
 <tr>
 <td width="50%" valign="top">
 
+**⚔️ Rivalis**
+AI-powered competitive intelligence engine and acquisition war-game simulator. A swarm of specialized agents builds live competitive landscapes; CEO digital twins of major incumbents react autonomously to your acquisition moves.
+`LangGraph` `Claude API` `CopilotKit` `Redis` `W&B Weave`
+[→ Devpost](https://devpost.com/software/rivalis)
+
+</td>
+<td width="50%" valign="top">
+
 **🏥 ClinOps**
 Multi-agent clinical trial management. Specialized LLM agents decompose, analyze, and transform unstructured protocol documents into structured deliverables.
 `TypeScript` `Next.js` `Gemini API` `OpenTelemetry`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 **📈 GraphLens**
@@ -82,8 +94,6 @@ GNN recommendation engine using LightGCN on bipartite user–item graphs with a 
 `PyTorch Geometric` `LightGCN` · **+11.8% Recall@10**
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 **🧠 NeuroScan AI**
@@ -91,6 +101,8 @@ Alzheimer's early detection from 104 MRI structural biomarkers. XGBoost feature 
 `XGBoost` `Scikit-Learn` `Nilearn` `OASIS-1`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 **🗂️ RAGent**
@@ -98,6 +110,7 @@ Semantic search & QA over large document collections with a retrieval evaluation
 `FastAPI` `Qdrant` `Docker` `Streamlit`
 
 </td>
+<td width="50%" valign="top"></td>
 </tr>
 </table>
 
